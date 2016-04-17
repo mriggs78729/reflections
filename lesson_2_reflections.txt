@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? 
+The staging directory contains files that will be committed.
+
+What value do you think it offers?
+
+It gives you one place to verify that you're updating what you expect.
